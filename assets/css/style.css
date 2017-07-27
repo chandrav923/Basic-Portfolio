@@ -27,6 +27,14 @@ p{
 	text-align: justify;
 }
 
+form{
+font-family: 'Arial', 'Helvetica Neue', sans-serif;
+}
+
+.no{
+	font-family: 'Arial', 'Helvetica Neue', sans-serif;
+}
+
 
 
 #placeholder{
